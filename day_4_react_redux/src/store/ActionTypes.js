@@ -1,0 +1,6 @@
+export const GET_POSTS = 'GET_POSTS'
+export const CREATE_POST = 'CREATE_POST'
+
+export const POSTS_LOADING = 'POSTS_LOADING'
+export const POSTS_SUCCESS = 'POSTS_SUCCESS';
+export const POSTS_FAILURE = 'POSTS_FAILURE';
