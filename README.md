@@ -15,14 +15,19 @@
 
 
 ### Additional Topics at last
-- throttle
+- Material Components
+- useThrottle simple example
+- Material ui components impoort
+- tailwind and firebase
+- react virtualized
 - error boundaries
-- this binding
-- useTransition
-- function in useState
-- client side and server side 
-- package.json commans
-- **react testing - unit testing, jest**
+<!-- - this binding -->
+<!-- - useTransition -->
+<!-- - function in useState -->
+<!-- - client side and server side  -->
+
+
+
 
 ## Next Lecture
 - Batch Update
